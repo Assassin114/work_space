@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	width:646px;
+	text-align: center;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight:normal;
+	margin:0;
+	padding:0;
+	color: #575757;
+}
+.header{
+	margin-top: 20px;
+	font-size: 40px;
+	font-family: 'SimHei',Arial,Helvetica, sans-serif;
+	margin-bottom: 20px;
+}
+.content{
+	width: 100%;
+	font-size: 18px;
+	font-family: 'microsoft yahei',Arial,Helvetica, sans-serif;
+	color: #575757;
+}
+.part{
+	width: 90%;
+	margin-left: 5%;
+	height: 400px;
+	background-color: #EBEBEB;
+}
+.image{
+	width: 400px;
+	position: absolute;
+	left: 324px;
+	margin-left: -200px;
+	height: 225px;
+	clear: both;
+}
+.label{
+	
+}
+.br{
+	height: 250px;
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.html" server="162.105.85.85" local="131603104692728641" remote="131607522000000000" Dst="0" />
+<file name="patientlogin.html" server="162.105.85.85" local="131603104639176985" remote="131607522000000000" Dst="0" />
+<file name="patientlogincheck.php" server="162.105.85.85" local="131604035945570486" remote="131607522000000000" Dst="0" />
+<file name="patientregcheck.php" server="162.105.85.85" local="131610653908767524" remote="131610654000000000" Dst="0" />
+<file name="patientregister.php" server="162.105.85.85" local="131603104554394474" remote="131607522000000000" Dst="0" />
+<file name="doctorlogincheck.php" server="162.105.85.85" local="131605443828001632" remote="131607522000000000" Dst="0" />
+<file name="doctorlogin.php" server="162.105.85.85" local="131605592873610918" remote="131607522000000000" Dst="0" />
+<file name="doctorregcheck.php" server="162.105.85.85" local="131607982755731438" remote="131607982200000000" Dst="0" />
+<file name="doctorregister.php" server="162.105.85.85" local="131607999212591547" remote="131607999000000000" Dst="0" />
+<file name="doctorgate.php" server="162.105.85.85" local="131607894194300099" remote="131607894000000000" Dst="0" />
+<file name="error.php" server="162.105.85.85" local="131603206731101763" remote="131607522000000000" Dst="0" />
+<file name="gate.php" server="162.105.85.85" local="131594540715220000" remote="131607611400000000" Dst="0" />
+<file name="selectpatient.php" server="162.105.85.85" local="131608034150947355" remote="131608033800000000" Dst="0" />
+<file name="tizhengshangchuan.php" server="162.105.85.85" local="131603997199413369" remote="131607522000000000" Dst="0" />
+<file name="patientdetails.php" server="162.105.85.85" local="131605556638361646" remote="131607522000000000" Dst="0" />
+<file name="personal center.php" server="162.105.85.85" local="131604938762647180" remote="131607522000000000" Dst="0" />
+<file name=".project" server="162.105.85.85" local="131602930800000000" remote="131607522000000000" Dst="0" />
+<file name="createsql.php" server="162.105.85.85" local="131607521191903078" remote="131607522000000000" Dst="0" />
+<file name="detailupload.php" server="162.105.85.85" local="131602930800000000" remote="131607522000000000" Dst="0" />
+<file name="diagnose.php" server="162.105.85.85" local="131602930800000000" remote="131607522000000000" Dst="0" />
+<file name="doctormain.php" server="162.105.85.85" local="131602930800000000" remote="131607522000000000" Dst="0" />
+<file name="drag.php" server="162.105.85.85" local="131602930800000000" remote="131607522000000000" Dst="0" />
+<file name="dragcheck.php" server="162.105.85.85" local="131602930800000000" remote="131607522000000000" Dst="0" />
+<file name="suggest.php" server="162.105.85.85" local="131602930800000000" remote="131607522000000000" Dst="0" />
+<file name="personal center diagnose.php" server="162.105.85.85" local="131607882484221260" remote="131607882000000000" Dst="0" />
+<file name="personal center doctor suggest.php" server="162.105.85.85" local="131607879847389403" remote="131607879600000000" Dst="0" />
+<file name="personal center drag information.php" server="162.105.85.85" local="131607931644761158" remote="131607931200000000" Dst="0" />
+<file name="personal center feedback.php" server="162.105.85.85" local="131607913945620651" remote="131607913800000000" Dst="0" />
+<file name="personal center history.php" server="162.105.85.85" local="131607167394957071" remote="131607522000000000" Dst="0" />
+<file name="personal center information.php" server="162.105.85.85" local="131605541501145302" remote="131607522000000000" Dst="0" />
+<file name="patient detail.php" server="162.105.85.85" local="131608069607200404" remote="131608069200000000" Dst="0" />
+<file name="patient diagnose.php" server="162.105.85.85" local="131607900490821379" remote="131607900000000000" Dst="0" />
+<file name="patient diagnose first.php" server="162.105.85.85" local="131607605760554986" remote="131607605400000000" Dst="0" />
+<file name="patient diagnose second.php" server="162.105.85.85" local="131607606858499820" remote="131607606600000000" Dst="0" />
+<file name="patient diagnose third.php" server="162.105.85.85" local="131607607400661295" remote="131607607200000000" Dst="0" />
+<file name="patient diagnose forth.php" server="162.105.85.85" local="131607606250583580" remote="131607606000000000" Dst="0" />
+<file name="patient diagnose first sign.php" server="162.105.85.85" local="131608037684412152" remote="131608037400000000" Dst="0" />
+<file name="patient diagnose first result.php" server="162.105.85.85" local="131608043051737845" remote="131608042800000000" Dst="0" />
+<file name="patient diagnose first drag.php" server="162.105.85.85" local="131608043270304751" remote="131608042800000000" Dst="0" />
+<file name="patient diagnose second sign.php" server="162.105.85.85" local="131608041902591083" remote="131608041600000000" Dst="0" />
+<file name="patient diagnose second result.php" server="162.105.85.85" local="131608042107948125" remote="131608041600000000" Dst="0" />
+<file name="patient diagnose second drag.php" server="162.105.85.85" local="131608045238063362" remote="131608045200000000" Dst="0" />
+<file name="patient diagnose third sign.php" server="162.105.85.85" local="131608041409146395" remote="131608041000000000" Dst="0" />
+<file name="patient diagnose third result.php" server="162.105.85.85" local="131608041083313066" remote="131608041000000000" Dst="0" />
+<file name="patient diagnose drag.php" server="162.105.85.85" local="131607333134470842" remote="131607611400000000" Dst="0" />
+<file name="patient diagnose forth sign.php" server="162.105.85.85" local="131608042457134001" remote="131608042200000000" Dst="0" />
+<file name="patient diagnose forth result.php" server="162.105.85.85" local="131608042635530310" remote="131608042200000000" Dst="0" />
+<file name="patient diagnose forth drag.php" server="162.105.85.85" local="131608042810262103" remote="131608042800000000" Dst="0" />
+<file name="patient diagnose third drag.php" server="162.105.85.85" local="131608045425881545" remote="131608045200000000" Dst="0" />
+<file name="diagnosis history.php" server="162.105.85.85" local="131607903657084129" remote="131607903600000000" Dst="0" />
+<file name="toughe_diagnosis.php" server="162.105.85.85" local="131611639307819598" remote="131611639200000000" Dst="0" />
+<file name="up_toughe" server="162.105.85.85" local="131611617000000000" remote="131611617000000000" Dst="0" />
+<file name="upload uptoughe.php" server="162.105.85.85" local="131611654882154281" remote="131611654800000000" Dst="0" />
+</dwsync>

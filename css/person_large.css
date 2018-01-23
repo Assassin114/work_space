@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align: center;
+	background-image:url(../picture/login_bgx.gif);
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight:normal;
+	margin:0;
+	padding:0;
+	color: #575757;
+}
+.header{
+	margin-top: 60px;
+	font-size: 40px;
+	font-family: 'SimHei',Arial,Helvetica, sans-serif;
+}
+.container{
+	width:900px;
+	height: 1000px;
+	position: absolute;
+	left: 50%;
+	margin-left: -450px;
+	background-image: url(../picture/login_lbig.png);
+}
+.content{
+	height: 750px;
+	width: 100%;
+}
+.allpart{
+	float: left;
+	width: 800px;
+	margin-top: 50px;
+	margin-left: 50px;
+	color: #575757;
+	height: 850px
+}
+.up{
+	margin-top: 10px;
+	width: 800px;
+	text-align: left;
+	height: 20px;
+}
+.leftpart{
+	margin-top: 20px;
+	width:150px;
+	float: left;
+	border: solid 1px;
+	font-color: #575757;
+}
+.rightpart{
+	margin-top: 20px;
+	width:646px;
+	float: left;
+	height: 800px;
+	border: solid 1px;
+}

@@ -1,0 +1,26 @@
+@charset "utf-8";
+table{
+	margin-top:50px;
+	width: 750px;
+	text-justify:inter-ideograph;
+	font-size:25px/100%;
+	font-family:Arial, Helvetica,sans-serif;
+	clear: both;
+}
+tr{
+	height:40px;
+	font-size: 20px;
+	line-height: 40px;
+	text-justify:inter-ideograph;
+	font-family:Arial, Helvetica,sans-serif;
+	border-bottom-color: #999999;
+	border-right-color: #999999;
+}
+.table{
+	background-image:url(../picture/login_lbig.png);
+	width: 900px;
+	height: 1000px;
+	position: absolute;
+	left: 50%;
+	margin-left: -450px;
+}
